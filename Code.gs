@@ -1,6 +1,4 @@
 function learning(){
-  var llave = "e2edf5454ca44c5909647127c8b7ef74";
-  var token = "331a0c7dee9e03a480aa1633644b847809ccd49af3ec4d4d7bd34f43c9fd48ba";
   var listid = "5b604d162ee8b571530914fa";
   var url = "https://api.trello.com/1/";
   var trellodata = {
